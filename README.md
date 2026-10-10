@@ -50,6 +50,11 @@ Brazilian E-Commerce Public Dataset by Olist, available on Kaggle.
 
 Dataset source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
+
+## Dashboard Preview
+
+![Olist E-Commerce Analytics Dashboard](olist_dashboard.png)
+
 ## Author
 MBA Finance student interested in data analytics, business intelligence, and financial analysis.
 
